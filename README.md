@@ -49,7 +49,5 @@ The `Code Files` folder includes various examples and exercises to apply what yo
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-
-
-
+------
 <p align="center">&copy; 2024 Venkata Sri Deepthi SriKotaPeetambaram | Database Systems Repository</p>
